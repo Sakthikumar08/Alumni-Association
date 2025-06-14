@@ -12,7 +12,7 @@ const Contact = () => {
       exit={{ opacity: 0 }}
       className="py-12 bg-gray-50"
     >
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-4 mt-[50px]">
         <motion.div
           initial={{ y: -20, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}

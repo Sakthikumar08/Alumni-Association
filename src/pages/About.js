@@ -12,7 +12,7 @@ const About = () => {
       exit={{ opacity: 0 }}
       className="py-12"
     >
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-4 mt-[50px]">
         <motion.h1 
           className="text-4xl font-bold text-center mb-12 text-gray-800"
           initial={{ y: -20, opacity: 0 }}

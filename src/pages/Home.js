@@ -10,9 +10,20 @@ const sampleEvents = [
     id: 1,
     title: "Alumni Reunion",
     date: "June 15, 2023",
-    description: "Annual gathering of all alumni"
+    description: "Annual gathering of all alumni for networking and reminiscing"
   },
-  // Add more sample events as needed
+  {
+    id: 2,
+    title: "Career Fair",
+    date: "September 8, 2023",
+    description: "Connect with top employers and explore job opportunities"
+  },
+  {
+    id: 3,
+    title: "Mentorship Program Kickoff",
+    date: "October 1, 2023",
+    description: "Launch of our annual alumni-student mentorship initiative"
+  }
 ];
 
 const Home = () => {
